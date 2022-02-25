@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	sshfx "github.com/pkg/sftp/internal/encoding/ssh/filexfer"
+	sshfx "github.com/kexirong/sftp/internal/encoding/ssh/filexfer"
 )
 
 func lsFormatID(id uint32) string {

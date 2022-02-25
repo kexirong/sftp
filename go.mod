@@ -1,6 +1,6 @@
-module github.com/pkg/sftp
+module github.com/kexirong/sftp
 
-go 1.15
+go 1.16
 
 require (
 	github.com/kr/fs v0.1.0
